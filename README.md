@@ -12,5 +12,10 @@
 # Create a New Component 
   ng generate component ComponentName
   
-#  
+# Add NPM Package 
+  npm install --save PackageName
   
+# Add Angular Material 
+  npm install --save @angular/material
+  or 
+  ng add @angular/material
