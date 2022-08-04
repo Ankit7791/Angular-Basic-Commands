@@ -20,10 +20,10 @@
   or 
   ng add @angular/material
 
-#how to add html template to angular application
+# how to add html template to angular application
 https://www.kindsonthegenius.com/how-to-integrate-admin-lte-with-angular/
 
-#always add Css and Scripts into angular.json files (below example is of admin lte template)
+# always add Css and Scripts into angular.json files (below example is of admin lte template)
 
     
     "scripts": [
@@ -57,5 +57,5 @@ https://www.kindsonthegenius.com/how-to-integrate-admin-lte-with-angular/
 
     ],
 
-#Angular Forms and Form Validations
+# Angular Forms and Form Validations
 https://www.bezkoder.com/angular-10-form-validation/
