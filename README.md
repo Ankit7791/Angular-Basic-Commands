@@ -56,6 +56,24 @@ https://www.kindsonthegenius.com/how-to-integrate-admin-lte-with-angular/
               "src/assets/plugins/summernote/summernote-bs4.min.css"
 
     ],
+    
+# App Routing 
+
+      import { NgModule } from '@angular/core';
+      import { RouterModule, Routes } from '@angular/router';
+      import { LoginComponent } from './login/login.component';
+
+      const routes: Routes = [
+        { path:'', redirectTo: '/login', pathMatch:'full' },
+        { path:'login', component: LoginComponent}
+      ];
+
+      @NgModule({
+        imports: [RouterModule.forRoot(routes)],
+        exports: [RouterModule]
+      })
+      export class AppRoutingModule { }
+
 
 # Angular Forms and Form Validations
 https://www.bezkoder.com/angular-10-form-validation/
