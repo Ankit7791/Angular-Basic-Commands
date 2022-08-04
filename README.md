@@ -57,14 +57,14 @@ https://www.kindsonthegenius.com/how-to-integrate-admin-lte-with-angular/
 
     ],
     
-# App Routing 
+# App Routing Example
 
       import { NgModule } from '@angular/core';
       import { RouterModule, Routes } from '@angular/router';
       import { LoginComponent } from './login/login.component';
 
       const routes: Routes = [
-        { path:'', redirectTo: '/login', pathMatch:'full' },
+        { path:'', redirectTo: '/login', pathMatch:'full' }, //path match full it takes the base url else it will get confuse
         { path:'login', component: LoginComponent}
       ];
 
