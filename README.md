@@ -43,3 +43,16 @@ https://www.kindsonthegenius.com/how-to-integrate-admin-lte-with-angular/
               "src/assets/dist/js/adminlte.js",
               "src/assets/dist/js/pages/dashboard.js"
     ]
+    
+    "styles": [
+              "src/styles.css",
+              "src/assets/plugins/fontawesome-free/css/all.min.css",
+              "src/assets/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css",
+              "src/assets/plugins/icheck-bootstrap/icheck-bootstrap.min.css",
+              "src/assets/plugins/jqvmap/jqvmap.min.css",
+              "src/assets/dist/css/adminlte.min.css",
+              "src/assets/plugins/overlayScrollbars/css/OverlayScrollbars.min.css",
+              "src/assets/plugins/daterangepicker/daterangepicker.css",
+              "src/assets/plugins/summernote/summernote-bs4.min.css"
+
+    ],
