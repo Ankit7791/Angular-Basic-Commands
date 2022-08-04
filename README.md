@@ -19,3 +19,6 @@
   npm install --save @angular/material
   or 
   ng add @angular/material
+
+#how to add html template to angular application
+https://www.kindsonthegenius.com/how-to-integrate-admin-lte-with-angular/
