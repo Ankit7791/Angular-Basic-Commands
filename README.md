@@ -36,8 +36,9 @@ https://www.kindsonthegenius.com/how-to-integrate-admin-lte-with-angular/
               "src/assets/plugins/daterangepicker/daterangepicker.css",
               "src/assets/plugins/summernote/summernote-bs4.min.css"
 
-            ],
-            "scripts": [
+    ],
+    
+    "scripts": [
               "src/assets/plugins/jquery/jquery.min.js",
               "src/assets/plugins/jquery-ui/jquery-ui.min.js",
               "src/assets/plugins/bootstrap/js/bootstrap.bundle.min.js",
@@ -53,4 +54,4 @@ https://www.kindsonthegenius.com/how-to-integrate-admin-lte-with-angular/
               "src/assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js",
               "src/assets/dist/js/adminlte.js",
               "src/assets/dist/js/pages/dashboard.js"
-            ]
+    ]
