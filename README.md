@@ -56,3 +56,6 @@ https://www.kindsonthegenius.com/how-to-integrate-admin-lte-with-angular/
               "src/assets/plugins/summernote/summernote-bs4.min.css"
 
     ],
+
+#Angular Forms and Form Validations
+https://www.bezkoder.com/angular-10-form-validation/
